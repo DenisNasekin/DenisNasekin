@@ -1,4 +1,4 @@
-### Hello world. I'm Denis.
+### Hello World. I'm Denis.
 
 I am a novice frontend developer. I'm finishing my studies at Yandex Practicum. And I am looking for the first offer
 
