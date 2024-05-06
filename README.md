@@ -4,9 +4,29 @@ I am a novice frontend developer.
 Completed training in Yandex workshop 07/22/23 - 06/22/24
 
 During my studies I implemented the following projects:
-1. Проект "ОНО ТЕБЕ НАДО"  Верстка страницы на HTML и CSS <br>
-<a href = "https://github.com/DenisNasekin/ono-tebe-nado">Репозиторий</a> <br>
-<a href = "https://denisnasekin.github.io/ono-tebe-nado/">Сайт</a> <br>
+1. Project "ONO TEBE NADO". Page layout on HTML or CSS <br>
+<a href = "https://github.com/DenisNasekin/ono-tebe-nado">Repository</a> <br>
+<a href = "https://denisnasekin.github.io/ono-tebe-nado/">Website</a> <br>
+2. Project "posmotri_v_okno". Page layout on HTML, CSS and JavaScript <br>
+<a href = "https://github.com/DenisNasekin/posmotri_v_okno">Repository</a> <br>
+<a href = "https://denisnasekin.github.io/posmotri_v_okno/">Website</a> <br>
+3. Project "slozhno-sosredotochitsya". Page layout on HTML, CSS and JavaScript <br>
+<a href = "https://github.com/DenisNasekin/slozhno-sosredotochitsya">Repository</a> <br>
+<a href = "https://denisnasekin.github.io/slozhno-sosredotochitsya/">Website</a> <br>
+4. Project "zakrivayuschiy-teg-f". Page layout on HTML, CSS and JavaScript <br>
+<a href = "https://github.com/DenisNasekin/zakrivayuschiy-teg-f">Repository</a> <br>
+<a href = "https://denisnasekin.github.io/zakrivayuschiy-teg-f/">Website</a> <br>
+6. Project "mesto-project-ff". Creating a service for adding photos on HTML, CSS and JavaScript <br>
+<a href = "https://github.com/DenisNasekin/mesto-project-ff">Repository</a> <br>
+<a href = "https://denisnasekin.github.io/mesto-project-ff/">Website</a> <br>
+7. Project "web-larek-frontend". Creation of a small online store on OOP, HTML, SCSS, JavaScript and TypeScript <br>
+<a href = "https://github.com/DenisNasekin/web-larek-frontend">Repository</a> <br>
+8. Project "web-larek-frontend". Creating a tool for customizing a blog page through an opening panel. React on SCSS, JavaScript and TypeScript <br>
+<a href = "https://github.com/DenisNasekin/blog-customizer">Repository</a> <br>
+9. Project "stellar-burger". Creating an application for ordering burgers. React, Redux, Router on SCSS, JavaScript and TypeScript <br>
+<a href = "https://github.com/DenisNasekin/stellar-burger">Repository</a> <br>
+
+
 
 ## My stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
