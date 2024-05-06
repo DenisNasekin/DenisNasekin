@@ -21,7 +21,7 @@ During my studies I implemented the following projects:
 <a href = "https://denisnasekin.github.io/mesto-project-ff/">Website</a> <br>
 7. Project "web-larek-frontend". Creation of a small online store on OOP, HTML, SCSS, JavaScript and TypeScript <br>
 <a href = "https://github.com/DenisNasekin/web-larek-frontend">Repository</a>
-8. Project "web-larek-frontend". Creating a tool for customizing a blog page through an opening panel. React on SCSS, JavaScript and TypeScript <br>
+8. Project "web-larek-frontend". Creating a tool for customizing a blog page through an opening panel. React on SCSS, JS and TS <br>
 <a href = "https://github.com/DenisNasekin/blog-customizer">Repository</a> <br>
 9. Project "stellar-burger". Creating an application for ordering burgers. React, Redux, Router on SCSS, JavaScript and TypeScript <br>
 <a href = "https://github.com/DenisNasekin/stellar-burger">Repository</a> <br>
