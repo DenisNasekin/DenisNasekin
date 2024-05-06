@@ -18,6 +18,9 @@ I am a novice frontend developer. I'm finishing my studies at Yandex Practicum. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title='JEST' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title='CYPRESS' width='40' height='40'/>&nbsp;
 
+## My statistics in codewars:
+<img src = "https://www.codewars.com/users/Nasekundu/badges/large">
+
 
 
 
