@@ -1,6 +1,11 @@
 ### Hello World. I'm Denis.
 
-I am a novice frontend developer. I'm finishing my studies at Yandex Practicum. And I am looking for the first offer
+I am a novice frontend developer.
+Completed training in Yandex workshop 07/22/23 - 06/22/24
+
+During my studies I implemented the following projects:
+# 1. <a href = "https://github.com/DenisNasekin/ono-tebe-nado">ono-tebe-nado</a>
+
 
 ## My stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
