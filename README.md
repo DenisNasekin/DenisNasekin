@@ -4,8 +4,9 @@ I am a novice frontend developer.
 Completed training in Yandex workshop 07/22/23 - 06/22/24
 
 During my studies I implemented the following projects:
-# 1. <a href = "https://github.com/DenisNasekin/ono-tebe-nado">ono-tebe-nado</a>
-
+1. Верстка страницы на HTML и CSS
+Репозиторий: <a href = "https://github.com/DenisNasekin/ono-tebe-nado">ono-tebe-nado</a> 
+Сайт: <a href = "https://denisnasekin.github.io/ono-tebe-nado/">ono-tebe-nado</a> 
 
 ## My stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
