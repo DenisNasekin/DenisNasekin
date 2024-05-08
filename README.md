@@ -1,7 +1,7 @@
 ### Hello World. I'm Denis.
 
 I am a novice frontend developer.
-Completed training in Yandex workshop 07/22/23 - 06/22/24
+Completed training in Yandex workshop 2023 - 2024
 
 During my studies I implemented the following projects:
 1. Project "ONO TEBE NADO". Page layout on HTML or CSS <br>
