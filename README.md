@@ -1,34 +1,22 @@
-### Hello World. I'm Denis.
+### Привет, меня зовут Денис.
 
-I am a novice frontend developer.
-Completed training in Yandex workshop 2023 - 2024
+Я начинающий фронтент разработчик.
+Имею 1 год учебного опыта. 
+ - HTML Академия 2022-2023
+ - Яндекс.Практикум в период 2023-2024
+ 
 
-During my studies I implemented the following projects:
-1. Project "ONO TEBE NADO". Page layout on HTML or CSS <br>
-<a href = "https://github.com/DenisNasekin/ono-tebe-nado">Repository</a>
-<a href = "https://denisnasekin.github.io/ono-tebe-nado/">Website</a> <br>
-2. Project "posmotri_v_okno". Page layout on HTML, CSS and JavaScript <br>
-<a href = "https://github.com/DenisNasekin/posmotri_v_okno">Repository</a>
-<a href = "https://denisnasekin.github.io/posmotri_v_okno/">Website</a> <br>
-3. Project "slozhno-sosredotochitsya". Page layout on HTML, CSS and JavaScript <br>
-<a href = "https://github.com/DenisNasekin/slozhno-sosredotochitsya">Repository</a>
-<a href = "https://denisnasekin.github.io/slozhno-sosredotochitsya/">Website</a> <br>
-4. Project "zakrivayuschiy-teg-f". Page layout on HTML, CSS and JavaScript <br>
-<a href = "https://github.com/DenisNasekin/zakrivayuschiy-teg-f">Repository</a>
-<a href = "https://denisnasekin.github.io/zakrivayuschiy-teg-f/">Website</a> <br>
-6. Project "mesto-project-ff". Creating a service for adding photos on HTML, CSS and JavaScript <br>
-<a href = "https://github.com/DenisNasekin/mesto-project-ff">Repository</a>
-<a href = "https://denisnasekin.github.io/mesto-project-ff/">Website</a> <br>
-7. Project "web-larek-frontend". Creation of a small online store on OOP, HTML, SCSS, JavaScript and TypeScript <br>
-<a href = "https://github.com/DenisNasekin/web-larek-frontend">Repository</a>
-8. Project "web-larek-frontend". Creating a tool for customizing a blog page through an opening panel. React on SCSS, JS and TS <br>
-<a href = "https://github.com/DenisNasekin/blog-customizer">Repository</a> <br>
-9. Project "stellar-burger". Creating an application for ordering burgers. React, Redux, Router on SCSS, JavaScript and TypeScript <br>
-<a href = "https://github.com/DenisNasekin/stellar-burger">Repository</a> <br>
+Выполненные мною проекты во время учебы:
+1. <a href = "https://github.com/DenisNasekin/ono-tebe-nado">Ono tebe nado</a> <br>
+2. <a href = "https://github.com/DenisNasekin/posmotri_v_okno">Posmotri v okno</a> <br>
+3. <a href = "https://github.com/DenisNasekin/slozhno-sosredotochitsya">Slozhno sosredotochitsya</a> <br>
+4. <a href = "https://github.com/DenisNasekin/zakrivayuschiy-teg-f">Zakrivayuschiy teg</a> <br>
+5. <a href = "https://github.com/DenisNasekin/mesto-project-ff">Mesto</a> <br>
+6. <a href = "https://github.com/DenisNasekin/web-larek-frontend">Web larek</a> <br>
+7. <a href = "https://github.com/DenisNasekin/blog-customizer">Blog customizer</a> <br>
+8. <a href = "https://github.com/DenisNasekin/stellar-burger">Stellar burger</a> <br>
 
-
-
-## My stack:
+## Мой стек:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='CSS' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='JS' width='40' height='40'/>&nbsp;
@@ -44,12 +32,5 @@ During my studies I implemented the following projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title='JEST' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title='CYPRESS' width='40' height='40'/>&nbsp;
 
-## My statistics in codewars:
+## Мой codewars:
 <img src = "https://www.codewars.com/users/Nasekundu/badges/large">
-
-
-
-
-          
-
-
