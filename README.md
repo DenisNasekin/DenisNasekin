@@ -6,7 +6,7 @@
  - Яндекс.Практикум в период 2023-2024
  
 
-Выполненные мною проекты во время учебы:
+## Учебные проекты:
 1. <a href = "https://github.com/DenisNasekin/ono-tebe-nado">Ono tebe nado</a> <br>
 2. <a href = "https://github.com/DenisNasekin/posmotri_v_okno">Posmotri v okno</a> <br>
 3. <a href = "https://github.com/DenisNasekin/slozhno-sosredotochitsya">Slozhno sosredotochitsya</a> <br>
