@@ -1,4 +1,4 @@
-### Привет, меня зовут Денис.
+## Привет, меня зовут Денис.
 
 Я начинающий фронтент разработчик.
 Имею 1 год учебного опыта. 
@@ -6,7 +6,7 @@
  - Яндекс.Практикум в период 2023-2024
  
 
-## Учебные проекты:
+### Учебные проекты:
 1. <a href = "https://github.com/DenisNasekin/ono-tebe-nado">Ono tebe nado</a> <br>
 2. <a href = "https://github.com/DenisNasekin/posmotri_v_okno">Posmotri v okno</a> <br>
 3. <a href = "https://github.com/DenisNasekin/slozhno-sosredotochitsya">Slozhno sosredotochitsya</a> <br>
@@ -16,7 +16,7 @@
 7. <a href = "https://github.com/DenisNasekin/blog-customizer">Blog customizer</a> <br>
 8. <a href = "https://github.com/DenisNasekin/stellar-burger">Stellar burger</a> <br>
 
-## Мой стек:
+### Мой стек:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='CSS' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='JS' width='40' height='40'/>&nbsp;
@@ -32,5 +32,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title='JEST' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title='CYPRESS' width='40' height='40'/>&nbsp;
 
-## Мой codewars:
+### Мой codewars:
 <img src = "https://www.codewars.com/users/Nasekundu/badges/large">
