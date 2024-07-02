@@ -5,7 +5,7 @@
 - Собираю свою библиотеку профильной литературы
 
 ### Учебные проекты:
-- <a href = "https://github.com/DenisNasekin/mesto-project-ff">Сервис по размешению своих любимых мест</a> <br>
+- <a href = "https://github.com/DenisNasekin/mesto-project-ff">Сервис по размещению своих любимых мест</a> <br>
 - <a href = "https://github.com/DenisNasekin/web-larek-frontend">Интернет магазин товаров</a> <br>
 - <a href = "https://github.com/DenisNasekin/stellar-burger">Приложение по созданию и заказу космо бургеров</a> <br>
 
