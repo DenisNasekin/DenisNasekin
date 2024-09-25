@@ -1,10 +1,6 @@
 ## Привет, меня зовут Денис.
 Я являюсь фронтенд разработчиком с опытом работы с 2023 года. Я активно участвую в различных сообществах разработчиков и постоянно совершенствую свои навыки.
 
-### Стажировки
-- <a href = "https://5dhub.tech">5D HUB Tech</a> <br>
-- <a href = "https://procharity.ru/">ProCharity</a> <br>
-
 ### Учебные проекты
 - <a href = "https://github.com/DenisNasekin/mesto-project-ff">Сервис по размещению своих любимых мест</a> <br>
 - <a href = "https://github.com/DenisNasekin/web-larek-frontend">Интернет магазин товаров</a> <br>
