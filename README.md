@@ -1,18 +1,6 @@
 ## Привет, меня зовут Денис.
 Я являюсь фронтенд разработчиком с опытом работы с 2023 года. Я активно участвую в различных сообществах разработчиков и постоянно совершенствую свои навыки.
 
-### Учебные проекты
-- <a href = "https://github.com/DenisNasekin/mesto-project-ff">Сервис по размещению своих любимых мест</a> <br>
-- <a href = "https://github.com/DenisNasekin/web-larek-frontend">Интернет магазин товаров</a> <br>
-- <a href = "https://github.com/DenisNasekin/stellar-burger">Приложение по созданию и заказу космо бургеров</a> <br>
-
-### Моя библиотека профильной литературы
-Собираю свою библиотеку профильной литературы по фронтенд разработке, чтобы постоянно изучать новые технологии и методы разработки.
-- Чистый код: создание, анализ и рефакторинг. Роберт Мартин
-- Выразительный JavaScript. Современное веб-программирование. Марейн Хавербеке
-- JavaScript. Подробное руководство. Дэвид Флэнаган
-
-
 ### Стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='CSS' width='40' height='40'/>&nbsp;&nbsp;
