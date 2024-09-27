@@ -11,7 +11,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title='NEXT' width='40' height='40'/>&nbsp;&nbsp;
 
 ### Связь со мной
-Вы можете связаться со мной:
 - почта: nasekindo@yandex.ru
 - телеграмм: https://t.me/NasekinDO
   
