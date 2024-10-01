@@ -2,7 +2,7 @@
 Я фронтенд разработчик. Активно участвую в различных сообществах разработчиков и постоянно совершенствую свои навыки.
 
 ### Коммерческие проекты:
-- https://unco.bio/ru
+- <a herf='https://unco.bio/ru' target='_blank'>unco.bio</a>
 
 ### Стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;&nbsp;
