@@ -1,18 +1,21 @@
-## Привет, меня зовут Денис.
+## Hi, my name is Denis.
+I am actively involved in various developer communities and am constantly improving my skills.
 
-Я фронтенд разработчик. Активно участвую в различных сообществах разработчиков и постоянно совершенствую свои навыки.
-## 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='CSS' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title='CASS' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='JS' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title='TS' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title='REACT' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title='REDUX' width='40' height='40'/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title='NEXT' width='40' height='40'/>&nbsp;&nbsp;
-### Связь со мной
+### Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux)](https://skillicons.dev)
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=figma,phpstorm,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,npm,vite,webpack)](https://skillicons.dev)
+
+### Project:
+- https://unco.bio/
+- https://foodfutures.club/
+- https://t.me/BAZAR_5D_Bot
+  
+### Contacts:
 - почта: nasekindo@yandex.ru
 - телеграмм: https://t.me/NasekinDO
   
-Буду рад обсудить с вами проекты, участвовать в совместных инициативах и обмениваться опытом!
-Спасибо за внимание.
+I will be glad to participate in joint initiatives and share experiences!
