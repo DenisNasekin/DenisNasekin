@@ -15,7 +15,7 @@ I am actively involved in various developer communities and am constantly improv
 - https://t.me/BAZAR_5D_Bot
   
 ### Contacts:
-- почта: nasekindo@yandex.ru
-- телеграмм: https://t.me/NasekinDO
+- nasekindo@yandex.ru
+- https://t.me/NasekinDO
   
 I will be glad to participate in joint initiatives and share experiences!
