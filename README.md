@@ -12,7 +12,6 @@ I am actively involved in various developer communities and am constantly improv
 ### Project:
 - https://unco.bio/
 - https://foodfutures.club/
-- https://t.me/BAZAR_5D_Bot
   
 ### Contacts:
 - nasekindo@yandex.ru
